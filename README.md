@@ -36,6 +36,6 @@ Woensdag: inleveren
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [Noise tutorial](https://catlikecoding.com/unity/tutorials/noise/)
+- [Generation Tutorial](https://www.youtube.com/watch?v=hk6cUanSfXQ)
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
