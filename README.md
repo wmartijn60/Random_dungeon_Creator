@@ -1,5 +1,5 @@
-# Naam Proefopdracht
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
+# procedurally generated dungeon
+
 
 Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
 
@@ -11,20 +11,24 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
 - [Iets unieks waar je trots op bent binnen de project](link)
 
 ## Software Anaylse 
-Ik heb unity en c# gekozen voor dit proefopdrachtje. Ik heb dit gedaan omdat unity alle tools die ik wil gebruikenzoals perlin noise gemakelijk te gebruiken zijn. Ook is er veel informatie over online.
+Ik heb unity en c# gekozen voor dit proefopdrachtje. Ik heb dit gedaan omdat unity erg makkelijk met 2d werkt.
+Ook is er veel informatie over online en is het dus een makkelijker leer proces.
+
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Perlin Noise. beter snapen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+- 
+- een goed werkende map genaration
+- 
 
 ## Planning 
-Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
+|week 1 |
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |
 |week 2 |
+| | maandag | dinsdag | woensdag | donderdag | vrijdag |
+| --- | --- | --- | --- | --- | --- |
+
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
