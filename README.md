@@ -25,6 +25,7 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 |week 1 |
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
+
 |week 2 |
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
