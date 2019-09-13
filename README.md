@@ -22,11 +22,10 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 
 ## Planning 
 
-|week 1 |
+week1
 vrijdag: Research
 
-|week 2 |
-
+week2
 Maandag: art pakkenbegin progameren
 Dinsdag: programeren 
 Woensdag: inleveren
