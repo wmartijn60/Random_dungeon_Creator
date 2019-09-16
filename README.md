@@ -26,9 +26,9 @@ vrijdag: research
 
 week2
 
-Maandag: art pakkenbegin progameren
+Maandag: art pakken begin progameren mechanics 
 
-Dinsdag: programeren 
+Dinsdag: RandomGenerating/Camera programing
 
 Woensdag: inleveren
 
