@@ -17,7 +17,7 @@ Ook is er veel informatie over online en is het dus een makkelijker leer proces.
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 - 
-- een goed werkende map genaration
+- een goed werkende Random map genarator
 - 
 
 ## Planning 
